@@ -30,9 +30,9 @@ local function createButton(text, position, emoteName)
 end
 
 -- Tambahkan tombol-tombol emote di sini
-createButton("Dance", UDim2.new(0, 100, 0, 100), "dance")
-createButton("Dance2", UDim2.new(0, 100, 0, 150), "dance2")
-createButton("Wave", UDim2.new(0, 100, 0, 200), "wave")
-createButton("Cheer", UDim2.new(0, 100, 0, 250), "cheer")
-createButton("Laugh", UDim2.new(0, 100, 0, 300), "laugh")
-createButton("Point", UDim2.new(0, 100, 0, 350), "point")
+createButton("Dance", UDim2.new(1, -120, 0, 150), "dance")
+createButton("Dance2", UDim2.new(1, -120, 0, 200), "dance2")
+createButton("Wave", UDim2.new(1, -120, 0, 250), "wave")
+createButton("Cheer", UDim2.new(1, -120, 0, 300), "cheer")
+createButton("Laugh", UDim2.new(1, -120, 0, 350), "laugh")
+createButton("Point", UDim2.new(1, -120, 0, 400), "point")
